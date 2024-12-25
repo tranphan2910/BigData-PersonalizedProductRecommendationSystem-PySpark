@@ -34,7 +34,7 @@ sentiment scores.
 ### Implementation Process 
 ### 1. Initialize the VADER Model:
 - We used the VADER lexicon from the NLTK library to calculate the sentiment polarity scores for the reviews. The sentiment score is computed on a scale from -1 (very negative) to 1 (very positive).
-- 
+  
 ![image](https://github.com/user-attachments/assets/4a6fc488-db88-45f1-abff-45af230b18d9)
 ### 2. Create UDF (User Defined Functions)
 Two UDFs were defined:
