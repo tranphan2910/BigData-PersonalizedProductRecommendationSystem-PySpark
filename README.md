@@ -44,7 +44,7 @@ Two UDFs were defined:
   - **Positive** if the sentiment score > 0.05.  
   - **Negative** if the sentiment score < -0.05.  
   - **Neutral** if the sentiment score is between -0.05 and 0.05.
-  - 
+    
  ![image](https://github.com/user-attachments/assets/fc16414d-4597-4fb6-a28c-688ec05331f7)
 
 ### 3. Apply Sentiment Analysis
