@@ -22,7 +22,7 @@
 
 - Output: The recommendation system suggests products based on reviews with similar sentiments, helping users discover items that match their preferences on Amazon.
 
-## 4. Proposed Model
+## 4. Experimentation and Model Evaluation
 ### 4.1. Sentiment Analysis 
 Sentiment analysis is a crucial step in evaluating customer feedback. After collecting and 
 preprocessing data from product reviews, the next step is to classify the sentiment of these 
