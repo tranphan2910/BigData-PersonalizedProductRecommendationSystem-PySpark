@@ -88,8 +88,7 @@ to identify the products most likely to be a good fit.
 ![image](https://github.com/user-attachments/assets/c953849a-31c7-4cb2-9b85-867fbf798955)
 ### 4.3.2 Model Evaluation 
 The model uses the Word2Vec technique to convert reviews into vectors and calculates similarity using cosine similarity, enabling personalized product recommendations based on user reviews.
-- **Accuracy:**  successfully recommends relevant products, including 'Lounge,' 'Swim,' 'Lounge,', 'Lounge,' and 'Intimates.' These products provide diverse options and are consistent with the content of the reviews. The repetition of 'Lounge' also indicates the model's ability to accurately select products that match the user’s needs and
-- preferences, ensuring a comprehensive and precise recommendation
+- **Accuracy:**  successfully recommends relevant products, including 'Lounge,' 'Swim,' 'Lounge,', 'Lounge,' and 'Intimates.' These products provide diverse options and are consistent with the content of the reviews. The repetition of 'Lounge' also indicates the model's ability to accurately select products that match the user’s needs and preferences, ensuring a comprehensive and precise recommendation
 - **Consistency:** The model demonstrates consistency in providing relevant product recommendations, ensuring users receive a diverse and valuable list of suggestions. The 
 presence of products from various categories, such as swimwear ('Swim'), and casual wear ('Lounge'), shows the model's ability to understand the semantic meaning of reviews and make appropriate suggestions based on them.
 - **Potential for Improvement:** Enhancements could include expanding the number of recommendations and improving handling of complex reviews for greater accuracy and flexibility.
