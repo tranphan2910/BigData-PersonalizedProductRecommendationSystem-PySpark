@@ -51,7 +51,7 @@ Two UDFs were defined:
 After registering these UDFs in PySpark, we applied them to the `review_text` column to create two new columns:
 - **polarity_score**: The sentiment score for each review.
 - **sentiment_label**: The corresponding sentiment label (**Positive**, **Negative**, **Neutral**).
-- 
+  
 ![image](https://github.com/user-attachments/assets/823e1d70-db93-4cb9-b08c-3d71c412906d)
 
 ### 4.2 Algorithm Experimentation 
