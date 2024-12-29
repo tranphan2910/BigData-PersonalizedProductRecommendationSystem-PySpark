@@ -43,15 +43,15 @@ Sentiment analysis helps classify customer feedback as Positive, Negative, or Ne
 1. **Initialize VADER Model**
    - Use the NLTK library for sentiment polarity scores.
    
-![image](https://github.com/user-attachments/assets/91024d00-d6dc-4151-a12c-ae3cb692c973)
+![image](https://github.com/user-attachments/assets/4a6fc488-db88-45f1-abff-45af230b18d9)
 
 2. **Define UDFs**
    - `get_polarity_score()`: Computes sentiment scores.
    - `get_sentiment_label()`: Assigns sentiment labels based on scores.
 
-![image](https://github.com/user-attachments/assets/fc16414d-4597-4fb6-a28c-688ec05331f7 =500x500)
+![image](https://github.com/user-attachments/assets/da4aa760-448a-41a4-b965-0f75b77dd968)
 
-3. **Apply Analysis**
+3. **Apply Sentiment Analysis**
    - Add `polarity_score` and `sentiment_label` columns to the dataset.
 
 ![image](https://github.com/user-attachments/assets/823e1d70-db93-4cb9-b08c-3d71c412906d)
