@@ -10,7 +10,7 @@
 [Myntra Reviews on Women Dresses - Comprehensive](https://www.kaggle.com/datasets/surajjha101/myntra-reviews-on-women-dresses-comprehensive)
 
 ## 2. Proposed Model
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/59438b4f-a18a-4e72-ac2c-735b9c6a3056" />
+![image](https://github.com/user-attachments/assets/0a74c972-8166-48bb-92b4-c9f5a0e1f85e)
 
 - Pre-processing: The dataset is cleaned by understanding column meanings, removing null/NaN values, normalizing text to lowercase, eliminating special characters, punctuation, digits, and stopwords. Lemmatization is applied to standardize words, ensuring quality input data.
 
